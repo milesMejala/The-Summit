@@ -1,0 +1,83 @@
+.navigation a {
+    color: #0C4CB3;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.logo{
+    color: #2176FF;
+    font-family: 'Amatic SC',sans-serif;
+    font-size: 34px;
+    padding: 0px 60px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a {
+    color: #FFB621;
+    text-decoration: underline;
+}
+
+a:visited {
+
+}
+
+.navigation a:hover {
+    text-decoration: solid underline #FFB621 5px;
+}
+
+a:hover {
+    color: #2176FF;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a:active {
+
+}
+
+a.btn {
+    background-color: #062B66;
+    border-radius: 6px;
+    padding: 15px 25px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+a.btn:visited {
+
+}
+
+a.btn:hover {
+    color: #FFB621;
+    background-color: #05204D; 
+    transition: color, background-color 0.2s;
+}
+
+a.btn:active {
+    background-color: #FFB621;
+    color: #062B66;
+}
+
+.activity {
+    font-size: 40px;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.activity:visited {
+
+}
+
+.activity:hover {
+    color: #FFB621;
+    background-color: #05204D;
+    font-weight: bold;
+    text-decoration: underline #2176FF;
+}
+
+.activity:active {
+
+}
